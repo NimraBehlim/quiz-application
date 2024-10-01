@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container h2 {
+    color: rgb(5, 46, 100);
+    font-weight: 600;
+    margin-bottom: 50px;
+    font-size: 300%;
+}
+
+
+.quiz {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff5f5;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+}
+
+.btn-primary {
+    width: 100%;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.form-check {
+    margin-bottom: 10px;
+}
